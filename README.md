@@ -1,2 +1,3 @@
-# laravel-publishable
-Laravel package for handling publishable resources
+# Laravel Publishable
+
+Laravel package for handling publishable resources.
